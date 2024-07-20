@@ -1,0 +1,122 @@
+{
+  "updates": {
+    "update": {
+      "type": "INFO",
+      "action": "",
+      "label": "Descargar Ahora ",
+      "isApp": false,
+      "action2": "",
+      "label2": "",
+      "icon": "",
+      "image": "https://i.ibb.co/VTKwLWF/Update-Box.png",
+      "changes": [
+        "✔️ Fixing ...."
+      ],
+      "subtitle": "Version 0.0.1",
+      "title": "Nueva Actualización",
+      "enable": true,
+      "cancelable": false,
+      "version": 1
+    },
+    "tips": [
+      {
+        "type": "W",
+        "action": "",
+        "label": " Bueno ",
+        "isApp": false,
+        "action2": "",
+        "label2": "",
+        "icon": "",
+        "image": "",
+        "changes": [
+          "✅ Gracias por ser donador de este maravilloso proyecto",
+          "✅ Únete a nuestras redes Sociales",
+          "✅ Un saludo, disfrute"
+        ],
+        "subtitle": "Bienvenido a Dark Play Plus",
+        "title": "Hola...",
+        "enable": true,
+        "cancelable": true,
+        "version": 1
+      }
+    ]
+  },
+  "slides": [],
+  "api": "",
+  "monkey": {
+    "report": [],
+    "social": [
+      {
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "name": "Messenger",
+        "url": ""
+      },
+      {
+        "name": "GoogleForms",
+        "url": ""
+      },
+      {
+        "name": "Facebook",
+        "url": ""
+      }
+    ],
+    "login": {
+      "account": true,
+      "accountSaved": "000-000-001",
+      "code": false,
+      "codex": "12342",
+      "codeSaved": "000-000-001",
+      "play": true,
+      "fuck": true
+    },
+    "status": {
+      "player": 1,
+      "playerLink": "",
+      "playerPackage": "",
+      "playerScheme": "",
+      "trial": true,
+      "time": 12345
+    },
+    "most": {
+      "most_url": "",
+      "most_base_query": "",
+      "most_max": 5
+    },
+    "manager": {
+      "ban": {
+        "enable": false,
+        "id": "",
+        "type": "M",
+        "id2": "",
+        "type2": "M"
+      },
+      "rew": {
+        "enable": false,
+        "mandatory": false,
+        "id": "",
+        "type": "M"
+      },
+      "nat": {
+        "enable": false,
+        "id": "",
+        "type": "M",
+        "lines": 4
+      },
+      "int": {
+        "enable": false,
+        "enable_link": false,
+        "enable_splash": false,
+        "enable_exo": false,
+        "id": "",
+        "id2": "",
+        "type": "M",
+        "type2": "M",
+        "clicks": 4,
+        "clicks2": 4
+      }
+    }
+  }
+}
